@@ -1,46 +1,52 @@
 <div align="center">
 
-<img src="YOUR_GOTHAM_BANNER_URL" width="100%"/>
+<br>
+
+### ANIRUDH G MENON
+
+**COMPUTER SCIENCE STUDENT**
 
 <br>
 
-# ANIRUDH G MENON
+`PYTHON`   `JAVA`   `JAVASCRIPT`   `WEB`   `AI`
 
-### Computer Science Student
+<br><br>
 
-`software · web · AI`
+─────── **GOTHAM** ───────
 
 </div>
 
----
+## About
 
-### About
+Computer Science student exploring **software development, web development and artificial intelligence**.
 
-Computer Science student learning to build better software.
+I enjoy learning by building, experimenting with new technologies, and continuously improving my understanding of computer science.
 
-Currently exploring **full stack development and artificial intelligence**, while strengthening my programming fundamentals.
+## What I'm working on
 
-### Tech
+→ Full Stack Development
+→ Backend fundamentals
+→ Artificial Intelligence
+→ Problem solving
 
-`Python` · `Java` · `JavaScript`
-`HTML` · `CSS` · `MySQL`
-`Git` · `GitHub` · `VS Code`
+## Stack
 
-### Learning
+|               |                            |
+| ------------- | -------------------------- |
+| **Languages** | Python · Java · JavaScript |
+| **Frontend**  | HTML · CSS                 |
+| **Database**  | MySQL                      |
+| **Tools**     | Git · GitHub · VS Code     |
 
-**Full Stack Development**
-**Artificial Intelligence**
+## Find me
 
-### Connect
+**GitHub** · **LinkedIn**
 
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-
----
+<br>
 
 <div align="center">
 
-**ANIRUDH G MENON**
-`keep building.`
+*Learn something. Build something. Repeat.*
 
 </div>
 
