@@ -6,43 +6,41 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="55%"/>
-
-<br>
-
-*Building. Learning. Improving.*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C9A227&height=2&section=header" width="45%"/>
 
 <br><br>
 
+*Building my skills, one step at a time.*
+
 </div>
+
+---
 
 ## About
 
-I'm a Computer Science student interested in **software development, web technologies, and artificial intelligence**.
+I'm a Computer Science student interested in **software development and web technologies**.
 
-Currently focused on strengthening my fundamentals and building practical skills through consistent learning and experimentation.
+Currently focused on strengthening my programming fundamentals and learning through hands-on practice.
 
-<br>
+---
 
-## Tech Stack
+## Skills
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql&theme=dark" />
 
 </div>
 
-<br>
+---
 
 ## Currently Learning
 
 **Full Stack Development**
-Frontend, backend, databases, and how everything connects.
 
-**Artificial Intelligence**
-Exploring the fundamentals and learning how intelligent systems are built.
+Working on improving my understanding of frontend, backend, databases, and how they work together.
 
-<br>
+---
 
 ## Connect
 
@@ -60,11 +58,10 @@ Exploring the fundamentals and learning how intelligent systems are built.
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=footer" width="55%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=171B22&height=2&section=footer" width="45%"/>
 
 </div>
-
