@@ -1,61 +1,46 @@
 <div align="center">
 
-# ANIRUDH G MENON
-
-**Computer Science Student**
-
-`build · learn · improve`
+<img src="YOUR_GOTHAM_BANNER_URL" width="100%"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="70%"/>
+# ANIRUDH G MENON
+
+### Computer Science Student
+
+`software · web · AI`
 
 </div>
 
-## About
-
-I'm a Computer Science student interested in **software development, web technologies, and AI**.
-
-Currently focused on improving my programming fundamentals and learning how to build useful things from the ground up.
-
 ---
 
-## Tech
+### About
 
-**Languages**
+Computer Science student learning to build better software.
+
+Currently exploring **full stack development and artificial intelligence**, while strengthening my programming fundamentals.
+
+### Tech
 
 `Python` · `Java` · `JavaScript`
+`HTML` · `CSS` · `MySQL`
+`Git` · `GitHub` · `VS Code`
 
-**Web**
-
-`HTML` · `CSS`
-
-**Database & Tools**
-
-`MySQL` · `Git` · `GitHub` · `VS Code`
-
----
-
-## Currently learning
+### Learning
 
 **Full Stack Development**
-Building stronger frontend and backend fundamentals.
-
 **Artificial Intelligence**
-Exploring the fundamentals and possibilities of AI.
 
----
-
-## Connect
+### Connect
 
 [GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/)
 
-<br>
+---
 
 <div align="center">
 
-`GOTHAM // KEEP BUILDING`
+**ANIRUDH G MENON**
+`keep building.`
 
 </div>
-
 
