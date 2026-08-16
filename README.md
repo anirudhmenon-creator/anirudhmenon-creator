@@ -1,52 +1,60 @@
 <div align="center">
 
+# ANIRUDH G MENON
+
+**Computer Science Student**
+
+`build · learn · improve`
+
 <br>
 
-### ANIRUDH G MENON
-
-**COMPUTER SCIENCE STUDENT**
-
-<br>
-
-`PYTHON`   `JAVA`   `JAVASCRIPT`   `WEB`   `AI`
-
-<br><br>
-
-─────── **GOTHAM** ───────
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="70%"/>
 
 </div>
 
 ## About
 
-Computer Science student exploring **software development, web development and artificial intelligence**.
+I'm a Computer Science student interested in **software development, web technologies, and AI**.
 
-I enjoy learning by building, experimenting with new technologies, and continuously improving my understanding of computer science.
+Currently focused on improving my programming fundamentals and learning how to build useful things from the ground up.
 
-## What I'm working on
+---
 
-→ Full Stack Development
-→ Backend fundamentals
-→ Artificial Intelligence
-→ Problem solving
+## Tech
 
-## Stack
+**Languages**
 
-|               |                            |
-| ------------- | -------------------------- |
-| **Languages** | Python · Java · JavaScript |
-| **Frontend**  | HTML · CSS                 |
-| **Database**  | MySQL                      |
-| **Tools**     | Git · GitHub · VS Code     |
+`Python` · `Java` · `JavaScript`
 
-## Find me
+**Web**
 
-**GitHub** · **LinkedIn**
+`HTML` · `CSS`
+
+**Database & Tools**
+
+`MySQL` · `Git` · `GitHub` · `VS Code`
+
+---
+
+## Currently learning
+
+**Full Stack Development**
+Building stronger frontend and backend fundamentals.
+
+**Artificial Intelligence**
+Exploring the fundamentals and possibilities of AI.
+
+---
+
+## Connect
+
+[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/)
 
 <br>
 
 <div align="center">
 
-*Learn something. Build something. Repeat.*
+`GOTHAM // KEEP BUILDING`
 
 </div>
 
